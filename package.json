@@ -1,0 +1,13 @@
+{
+  "name": "lab-of-system-techs",
+  "version": "1.0.0",
+  "description": "",
+  "type": "module",
+  "main": "tests.js",
+  "scripts": {
+    "test": "node tests.js"
+  },
+  "keywords": [],
+  "author": "Atsamaz E. Tedeev",
+  "license": "ISC"
+}
